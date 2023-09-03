@@ -1,4 +1,4 @@
-/*Program:*/
+/*Program: kruskal*/
 
 #include <stdio.h>
 #include <time.h>
